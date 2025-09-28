@@ -38,7 +38,7 @@ with col2:
     )
 
     # Center the Recommend button inside col2 using nested columns
-    inner_col1, inner_col2, inner_col3 = st.columns([3, 2, 3])
+    inner_col1, inner_col2, inner_col3 = st.columns([2, 2, 2])
     with inner_col2:
         recommend_btn = st.button('Recommend')
     
