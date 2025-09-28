@@ -2,6 +2,9 @@
 
 This project is a movie recommender system built using Python and Streamlit for the frontend. The system suggests movies similar to the one selected by the user, based on a precomputed similarity matrix.
 
+## Website Live:
+[https://utk-movie-recommender.streamlit.app/](https://utk369gupta-movie-recommender.streamlit.app/)
+
 ## A Little Insightful Image
 
 ![Movie Recommender Screenshot](./view.png)
