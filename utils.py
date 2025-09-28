@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 # Load environment variables for TMDB API key
 # load_dotenv()
-api_key = <Enter Your API>
+api_key = a5be7b745ddc7b07cae03e52d1a5e1ce
 
 
 # Load Data
