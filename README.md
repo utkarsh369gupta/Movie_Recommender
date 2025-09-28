@@ -2,6 +2,11 @@
 
 This project is a movie recommender system built using Python and Streamlit for the frontend. The system suggests movies similar to the one selected by the user, based on a precomputed similarity matrix.
 
+## Images
+
+![Movie Recommender Screenshot](./view.png)
+
+
 ## Features
 - **Movie Recommendations:** Select a movie, and the system will recommend up to 14 similar movies.
 - **Streamlit Frontend:** A user-friendly interface allows for easy interaction and real-time results.
@@ -13,7 +18,7 @@ This project is a movie recommender system built using Python and Streamlit for 
 - **Pandas:** Data manipulation and handling.
 - **Numpy:** Used for numerical operations.
 - **Scikit-learn:** For calculating cosine similarity.
-- **Matplotlib:** Can be used for visualizing data (optional for future improvements).
+- **NLTK:** Natural Language Tokeniser use for stemming.
 - **Pickle:** For loading preprocessed data and similarity matrix.
 
 ## How it Works
